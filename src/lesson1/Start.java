@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package lesson1;
 
 public class Start {
 
